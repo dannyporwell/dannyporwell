@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Pariyat.</h1>
 
 <h3 align="center">A little firmware engineer from Thailand.</h3>
-🌐
+ 🌐
 
 * 🕊️  I'm diving deep into the embedded systems field
 * 🔗  Linked In [https://www.linkedin.com/p](https://www.linkedin.com/in/pariyat-lintala-a377b724b/)
