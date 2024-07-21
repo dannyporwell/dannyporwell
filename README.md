@@ -1,7 +1,7 @@
-Hi 👋 I'm Pariyat Lintala
+<h1 align="center">Hi 👋 I'm Pariyat.</h1>
 ================================
 
-A little firmware engineer from Thailand.
+<h3 align="center">A little firmware engineer from Thailand.</h3>
 -----------------
 
 
