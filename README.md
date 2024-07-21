@@ -4,8 +4,6 @@ Hi 👋 I'm Pariyat Lintala
 A little firmware engineer from Thailand.
 -----------------
 
-I've been learning about embedded system for 2 year.
-
 * 🕊️  I'm diving deep into the embedded systems field
 
 ### Skills
