@@ -4,6 +4,7 @@
 🌐
 
 * 🕊️  I'm diving deep into the embedded systems field
+* #️⃣  My Linked In [https://www.linkedin.com/](https://www.linkedin.com/in/pariyat-lintala-a377b724b/)
 
 ### Skills
 
