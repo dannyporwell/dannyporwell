@@ -6,8 +6,7 @@ A little firmware engineer from Thailand.
 
 I've been learning about embedded system for 2 year.
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning C/C++
+* 🕊️  I'm diving deep into the embedded systems field
 
 ### Skills
 
