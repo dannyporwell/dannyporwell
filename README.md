@@ -5,7 +5,7 @@
 
 * 🕊️  I'm diving deep into the embedded systems field
 * 🌐  Linked In [https://www.linkedin.com/p](https://www.linkedin.com/in/pariyat-lintala-a377b724b/)
-* 🙋‍♂️  Loading...
+* 🙋‍♂️  Loading... [flory.icu](http://flory.icu/)
 
 ### Skills
 
