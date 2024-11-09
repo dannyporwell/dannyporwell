@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Pariyat.</h1>
 
-<h3 align="center">A little firmware engineer from Thailand.</h3>
+<h3 align="center">A little (all about IoT) engineer from Thailand.</h3>
  🔗
 
 * 🕊️  I'm diving deep into the embedded systems field
